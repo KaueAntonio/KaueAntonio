@@ -24,7 +24,9 @@ Atualmente trabalho em projetos focados em sistemas para administradoras de cons
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueAntonio&show_icons=true&theme=radical)
+![KaueAntonio's Stats](https://github-readme-stats.vercel.app/api?username=KaueAntonio&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+
+![KaueAntonio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaueAntonio&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 ## Projetos
 
